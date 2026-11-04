@@ -5,10 +5,10 @@ body {
 
 header {
 	background-color: purple;
+	text-align: center;
 	height: 5vh;
 	margin: 0px;
 	padding: 4px;
-	text-align: center;
 }
 
 header h2 {
@@ -26,24 +26,24 @@ main {
 }
 
 main h3 {
-	background-color: white;
+	background-color: whitesmoke;
 	color: black;
 	margin: 1%;
 	padding: 10%;
-	width: 18vw;
+	width: 25vh;
 	text-align: center;
 }
 
 footer {
 	background-color: black;
+	text-align: center;
 	height: 5vh;
 	margin: 0px;
 	padding: 4px;
-	text-align: center;
 }
 
 footer h3 {
-	margin: 2px;
-	padding: 0px;
 	color: white;
+	margin: 0px;
+	padding: 0px;
 }
