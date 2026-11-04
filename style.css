@@ -1,0 +1,49 @@
+body {
+	padding: 0%;
+	margin: 0%;
+}
+
+header {
+	background-color: purple;
+	height: 5vh;
+	margin: 0px;
+	padding: 4px;
+	text-align: center;
+}
+
+header h2 {
+	margin: 10px;
+	padding: 0px;
+	color: yellow;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	height: 88.5vh;
+	background-color: black;
+	justify-content: center;
+}
+
+main h3 {
+	background-color: white;
+	color: black;
+	margin: 1%;
+	padding: 10%;
+	width: 18vw;
+	text-align: center;
+}
+
+footer {
+	background-color: black;
+	height: 5vh;
+	margin: 0px;
+	padding: 4px;
+	text-align: center;
+}
+
+footer h3 {
+	margin: 2px;
+	padding: 0px;
+	color: white;
+}
